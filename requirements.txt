@@ -32,7 +32,7 @@ importlib-metadata==4.2.0 ; python_version < "3.8"
     #   pytest
 iniconfig==1.1.1
     # via pytest
-isort==5.10.1
+isort==5.12.0
     # via -r requirements.in
 mccabe==0.7.0
     # via flake8
